@@ -1,0 +1,14 @@
+.profile-photo{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 5px dotted rgb(0, 0, 0);
+}
+.profile-photo:hover{
+    border: 5px solid black;
+}
+div{
+    
+    text-align: center;
+    
+}
